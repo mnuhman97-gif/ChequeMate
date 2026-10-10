@@ -1,0 +1,22 @@
+{
+  "name": "ChequeMate \u2014 Cheque Tracker",
+  "short_name": "ChequeMate",
+  "description": "Private AED payment cheque tracker with due dates, statuses, calendar and reports.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#123a70",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
